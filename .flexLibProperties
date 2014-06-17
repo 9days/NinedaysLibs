@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="ninedays.utils.AutoTimer"/>
+    <classEntry path="ninedays.display.IContainer"/>
+    <classEntry path="ninedays.display.IScene"/>
+    <classEntry path="ninedays.display.Container"/>
+    <classEntry path="ninedays.utils.camera.ICameraTarget"/>
+    <classEntry path="ninedays.utils.camera.Camera"/>
+    <classEntry path="ninedays.behaviorTree.BehaviorNode"/>
+    <classEntry path="ninedays.behaviorTree.CompositeNode"/>
+    <classEntry path="ninedays.behaviorTree.LeafNode"/>
+    <classEntry path="ninedays.behaviorTree.ActionNode"/>
+    <classEntry path="ninedays.behaviorTree.ConditionNode"/>
+    <classEntry path="ninedays.behaviorTree.SequenceNode"/>
+    <classEntry path="ninedays.behaviorTree.SelectorNode"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
